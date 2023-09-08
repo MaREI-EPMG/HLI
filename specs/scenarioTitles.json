@@ -1,4 +1,6 @@
 {
-  "no_mitigation": "No Mitigation",
-  "another_scenario": "Another Scenario"
+  "mitigation_cb-hli2": "HLI-2",
+  "mitigation_cb-hli23": "HLI2.3",
+  "mitigation_cb-hli25": "HLI2.5",
+  "mitigation_cb-hli3": "HLI3"
 }

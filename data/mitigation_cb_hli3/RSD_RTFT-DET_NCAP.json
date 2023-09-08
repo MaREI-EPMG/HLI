@@ -1,0 +1,31 @@
+{
+  "name": "mitigation_cb_hli3",
+  "data": [
+    {
+      "serieName": "R-RTFT-Det_F",
+      "seriesValues": [
+        [
+          2019,
+          10.3122360651435
+        ]
+      ]
+    },
+    {
+      "serieName": "R-RTFT-Det_G",
+      "seriesValues": [
+        [
+          2019,
+          19.2820686380966
+        ],
+        [
+          2021,
+          7.18992389895127
+        ],
+        [
+          2023,
+          7.19002488470057
+        ]
+      ]
+    }
+  ]
+}
