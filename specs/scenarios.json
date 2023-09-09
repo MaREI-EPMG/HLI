@@ -1,22 +1,22 @@
 [
   {
-    "name": "mitigation_cb-hli2",
-    "variants": [{ "name": "mitigation_cb-hli2", "specs": null }]
+    "name": "mitigation_cb_hli2",
+    "variants": [{ "name": "mitigation_cb_hli2", "specs": null }]
   },
   {
-    "name": "mitigation_cb-hli23",
-    "variants": [{ "name": "mitigation_cb-hli23", "specs": null }]
+    "name": "mitigation_cb_hli23",
+    "variants": [{ "name": "mitigation_cb_hli23", "specs": null }]
   },
   {
-    "name": "mitigation_cb-hli25",
-    "variants": [{ "name": "mitigation_cb-hli25", "specs": null }]
+    "name": "mitigation_cb_hli25",
+    "variants": [{ "name": "mitigation_cb_hli25", "specs": null }]
   },
   {
-    "name": "mitigation_cb-hli3",
-    "variants": [{ "name": "mitigation_cb-hli3", "specs": null }]
+    "name": "mitigation_cb_hli3",
+    "variants": [{ "name": "mitigation_cb_hli3", "specs": null }]
   },
 {
-    "name": "mitigation_cb-hlib2",
-    "variants": [{ "name": "mitigation_cb-hlib2", "specs": null }]
+    "name": "mitigation_cb_hlib2",
+    "variants": [{ "name": "mitigation_cb_hlib2", "specs": null }]
   }
 ]
