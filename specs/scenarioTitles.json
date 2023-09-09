@@ -1,6 +1,7 @@
 {
-  "mitigation_cb-hli2": "HLI-2",
-  "mitigation_cb-hli23": "HLI2.3",
-  "mitigation_cb-hli25": "HLI2.5",
-  "mitigation_cb-hli3": "HLI3"
+  "mitigation_cb-hli2": "HLI<2",
+  "mitigation_cb-hli23": "HLI<2.3",
+  "mitigation_cb-hli25": "HLI<2.5",
+  "mitigation_cb-hli3": "HLI<3",
+  "mitigation_cb-hlib2": "B2standard"
 }
