@@ -18,5 +18,5 @@
 {
     "name": "mitigation_cb-hlib2",
     "variants": [{ "name": "mitigation_cb-hlib2", "specs": null }]
-  },
+  }
 ]
