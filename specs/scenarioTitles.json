@@ -1,7 +1,8 @@
 {
-  "mitigation_cb_hli2": "HLI2",
-  "mitigation_cb_hli23": "HLI2.3",
-  "mitigation_cb_hli25": "HLI2.5",
-  "mitigation_cb_hli3": "HLI3",
-  "mitigation_cb_hlib2": "B2"
+  "mitigation_cb_hli2": "HPR =< HLI2",
+  "mitigation_cb_hli23": "HPR =< HLI2.3",
+  "mitigation_cb_hli25": "HPR =< HLI2.5",
+  "mitigation_cb_hli3": "HPR =< HLI3",
+  "mitigation_cb_hlib2": "HPR B2 or better",
+  "mitigation_cb_hlib2-ns": "B2 & Optimal HPs only",
 }

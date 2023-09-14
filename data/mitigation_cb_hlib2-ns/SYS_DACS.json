@@ -1,0 +1,40 @@
+{
+  "name": "mitigation_cb_hlib2-ns",
+  "data": [
+    {
+      "seriesName": "INDCO2N",
+      "seriesValues": [
+        [
+          2025,
+          3006.24215383589
+        ],
+        [
+          2029,
+          1902.62012384773
+        ],
+        [
+          2030,
+          3366.08304073857
+        ]
+      ]
+    },
+    {
+      "seriesName": "PWRCO2N",
+      "seriesValues": [
+        [
+          2025,
+          4692.3028937601
+        ]
+      ]
+    },
+    {
+      "seriesName": "INDCO2P",
+      "seriesValues": [
+        [
+          2030,
+          179.983143184706
+        ]
+      ]
+    }
+  ]
+}
