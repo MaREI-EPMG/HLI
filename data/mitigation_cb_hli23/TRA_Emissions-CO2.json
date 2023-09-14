@@ -2,7 +2,7 @@
   "name": "mitigation_cb_hli23",
   "data": [
     {
-      "serieName": "DMD_TRA-F-LAND",
+      "seriesName": "DMD_TRA-F-LAND",
       "seriesValues": [
         [
           2018,
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "serieName": "DMD_TRA-P-LAND",
+      "seriesName": "DMD_TRA-P-LAND",
       "seriesValues": [
         [
           2018,
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "serieName": "DMD_TRA-R-AVIDOM",
+      "seriesName": "DMD_TRA-R-AVIDOM",
       "seriesValues": [
         [
           2018,
@@ -321,7 +321,7 @@
       ]
     },
     {
-      "serieName": "DMD_TRA-R-AVIINT",
+      "seriesName": "DMD_TRA-R-AVIINT",
       "seriesValues": [
         [
           2018,
@@ -458,7 +458,7 @@
       ]
     },
     {
-      "serieName": "DMD_TRA-R-NAV",
+      "seriesName": "DMD_TRA-R-NAV",
       "seriesValues": [
         [
           2018,
@@ -595,7 +595,7 @@
       ]
     },
     {
-      "serieName": "DMD_TRA-R-OTH",
+      "seriesName": "DMD_TRA-R-OTH",
       "seriesValues": [
         [
           2018,
@@ -648,7 +648,7 @@
       ]
     },
     {
-      "serieName": "DMD_TRA-R-TURS",
+      "seriesName": "DMD_TRA-R-TURS",
       "seriesValues": [
         [
           2018,

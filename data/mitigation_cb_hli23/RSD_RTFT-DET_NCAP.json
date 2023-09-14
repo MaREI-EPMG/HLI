@@ -2,7 +2,7 @@
   "name": "mitigation_cb_hli23",
   "data": [
     {
-      "serieName": "R-RTFT-Det_F",
+      "seriesName": "R-RTFT-Det_F",
       "seriesValues": [
         [
           2019,
@@ -15,7 +15,7 @@
       ]
     },
     {
-      "serieName": "R-RTFT-Det_G",
+      "seriesName": "R-RTFT-Det_G",
       "seriesValues": [
         [
           2019,

@@ -2,7 +2,7 @@
   "name": "mitigation_cb_hli3",
   "data": [
     {
-      "serieName": "DMD_TRA-P-CAR-ICE",
+      "seriesName": "DMD_TRA-P-CAR-ICE",
       "seriesValues": [
         [
           2019,
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "serieName": "DMD_TRA-P-CAR-BEV",
+      "seriesName": "DMD_TRA-P-CAR-BEV",
       "seriesValues": [
         [
           2020,
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "serieName": "DMD_TRA-P-CAR-HEV",
+      "seriesName": "DMD_TRA-P-CAR-HEV",
       "seriesValues": [
         [
           2020,
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "serieName": "DMD_TRA-P-CAR-PHEV",
+      "seriesName": "DMD_TRA-P-CAR-PHEV",
       "seriesValues": [
         [
           2020,

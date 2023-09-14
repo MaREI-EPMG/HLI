@@ -2,7 +2,7 @@
   "name": "mitigation_cb_hlib2",
   "data": [
     {
-      "serieName": "R-SW_Apt_HET_N1",
+      "seriesName": "R-SW_Apt_HET_N1",
       "seriesValues": [
         [
           2019,
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "serieName": "R-WH_Apt_ELC_N1",
+      "seriesName": "R-WH_Apt_ELC_N1",
       "seriesValues": [
         [
           2019,
@@ -256,7 +256,7 @@
       ]
     },
     {
-      "serieName": "R-HC_Apt_ELC_HPN2-AB",
+      "seriesName": "R-HC_Apt_ELC_HPN2-AB",
       "seriesValues": [
         [
           2023,
@@ -337,7 +337,7 @@
       ]
     },
     {
-      "serieName": "R-SH_Apt_ELC_HPN2-AB",
+      "seriesName": "R-SH_Apt_ELC_HPN2-AB",
       "seriesValues": [
         [
           2023,
@@ -446,7 +446,7 @@
       ]
     },
     {
-      "serieName": "R-SH_Apt_ELC_HPN2-C",
+      "seriesName": "R-SH_Apt_ELC_HPN2-C",
       "seriesValues": [
         [
           2023,
@@ -487,7 +487,7 @@
       ]
     },
     {
-      "serieName": "R-SH_Apt_ELC_HPN2-D",
+      "seriesName": "R-SH_Apt_ELC_HPN2-D",
       "seriesValues": [
         [
           2024,
@@ -524,7 +524,7 @@
       ]
     },
     {
-      "serieName": "R-SH_Apt_ELC_HPN2-E",
+      "seriesName": "R-SH_Apt_ELC_HPN2-E",
       "seriesValues": [
         [
           2026,
@@ -565,7 +565,7 @@
       ]
     },
     {
-      "serieName": "R-SH_Apt_ELC_HPN2-F",
+      "seriesName": "R-SH_Apt_ELC_HPN2-F",
       "seriesValues": [
         [
           2026,
@@ -598,7 +598,7 @@
       ]
     },
     {
-      "serieName": "R-SW_Apt_GAS_N1",
+      "seriesName": "R-SW_Apt_GAS_N1",
       "seriesValues": [
         [
           2031,
@@ -671,7 +671,7 @@
       ]
     },
     {
-      "serieName": "R-HC_Apt_ELC_HPN2-C",
+      "seriesName": "R-HC_Apt_ELC_HPN2-C",
       "seriesValues": [
         [
           2036,
@@ -680,7 +680,7 @@
       ]
     },
     {
-      "serieName": "R-SH_Apt_ELC_HPN2-G",
+      "seriesName": "R-SH_Apt_ELC_HPN2-G",
       "seriesValues": [
         [
           2036,
@@ -697,7 +697,7 @@
       ]
     },
     {
-      "serieName": "R-HC_Apt_ELC_HPN2-D",
+      "seriesName": "R-HC_Apt_ELC_HPN2-D",
       "seriesValues": [
         [
           2038,
@@ -706,7 +706,7 @@
       ]
     },
     {
-      "serieName": "R-HC_Apt_ELC_HPN2-E",
+      "seriesName": "R-HC_Apt_ELC_HPN2-E",
       "seriesValues": [
         [
           2038,
@@ -715,7 +715,7 @@
       ]
     },
     {
-      "serieName": "R-HC_Apt_ELC_HPN2-F",
+      "seriesName": "R-HC_Apt_ELC_HPN2-F",
       "seriesValues": [
         [
           2038,
@@ -724,7 +724,7 @@
       ]
     },
     {
-      "serieName": "R-HC_Apt_ELC_HPN2-G",
+      "seriesName": "R-HC_Apt_ELC_HPN2-G",
       "seriesValues": [
         [
           2038,

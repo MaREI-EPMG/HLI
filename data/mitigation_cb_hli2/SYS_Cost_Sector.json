@@ -2,7 +2,7 @@
   "name": "mitigation_cb_hli2",
   "data": [
     {
-      "serieName": "PRC_SUP",
+      "seriesName": "PRC_SUP",
       "seriesValues": [
         [
           2018,
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "serieName": "PRC_TRA",
+      "seriesName": "PRC_TRA",
       "seriesValues": [
         [
           2018,
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "serieName": "PRC_AGR",
+      "seriesName": "PRC_AGR",
       "seriesValues": [
         [
           2019,
@@ -409,7 +409,7 @@
       ]
     },
     {
-      "serieName": "PRC_PWR",
+      "seriesName": "PRC_PWR",
       "seriesValues": [
         [
           2019,
@@ -542,7 +542,7 @@
       ]
     },
     {
-      "serieName": "PRC_RSD",
+      "seriesName": "PRC_RSD",
       "seriesValues": [
         [
           2019,
@@ -675,7 +675,7 @@
       ]
     },
     {
-      "serieName": "PRC_SRV",
+      "seriesName": "PRC_SRV",
       "seriesValues": [
         [
           2019,
@@ -808,7 +808,7 @@
       ]
     },
     {
-      "serieName": "PRC_IND",
+      "seriesName": "PRC_IND",
       "seriesValues": [
         [
           2030,

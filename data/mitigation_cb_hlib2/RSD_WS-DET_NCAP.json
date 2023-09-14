@@ -2,7 +2,7 @@
   "name": "mitigation_cb_hlib2",
   "data": [
     {
-      "serieName": "R-SW_Det_HET_N1",
+      "seriesName": "R-SW_Det_HET_N1",
       "seriesValues": [
         [
           2019,
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "serieName": "R-SW_Det_LPG_N1",
+      "seriesName": "R-SW_Det_LPG_N1",
       "seriesValues": [
         [
           2020,
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "serieName": "R-HC_Det_ELC_HPN2-ABD",
+      "seriesName": "R-HC_Det_ELC_HPN2-ABD",
       "seriesValues": [
         [
           2023,
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "serieName": "R-HC_Det_ELC_HPN2-ABF",
+      "seriesName": "R-HC_Det_ELC_HPN2-ABF",
       "seriesValues": [
         [
           2023,
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "serieName": "R-HC_Det_ELC_HPN2-ABG",
+      "seriesName": "R-HC_Det_ELC_HPN2-ABG",
       "seriesValues": [
         [
           2023,
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "serieName": "R-SW_Det_BDL_N1",
+      "seriesName": "R-SW_Det_BDL_N1",
       "seriesValues": [
         [
           2023,
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "serieName": "R-SW_Det_KER_N1",
+      "seriesName": "R-SW_Det_KER_N1",
       "seriesValues": [
         [
           2023,
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "serieName": "R-WH_Det_ELC_N1",
+      "seriesName": "R-WH_Det_ELC_N1",
       "seriesValues": [
         [
           2023,
@@ -298,7 +298,7 @@
       ]
     },
     {
-      "serieName": "R-HC_Det_ELC_HPN2-C",
+      "seriesName": "R-HC_Det_ELC_HPN2-C",
       "seriesValues": [
         [
           2024,
@@ -319,7 +319,7 @@
       ]
     },
     {
-      "serieName": "R-SH_Det_ELC_HPN2-ABF",
+      "seriesName": "R-SH_Det_ELC_HPN2-ABF",
       "seriesValues": [
         [
           2024,
@@ -332,7 +332,7 @@
       ]
     },
     {
-      "serieName": "R-SH_Det_ELC_HPN2-ABG",
+      "seriesName": "R-SH_Det_ELC_HPN2-ABG",
       "seriesValues": [
         [
           2024,
@@ -341,7 +341,7 @@
       ]
     },
     {
-      "serieName": "R-SH_Det_ELC_HPN2-C",
+      "seriesName": "R-SH_Det_ELC_HPN2-C",
       "seriesValues": [
         [
           2025,
@@ -374,7 +374,7 @@
       ]
     },
     {
-      "serieName": "R-SH_Det_ELC_HPN2-D",
+      "seriesName": "R-SH_Det_ELC_HPN2-D",
       "seriesValues": [
         [
           2025,
@@ -415,7 +415,7 @@
       ]
     },
     {
-      "serieName": "R-SH_Det_ELC_HPN2-E",
+      "seriesName": "R-SH_Det_ELC_HPN2-E",
       "seriesValues": [
         [
           2025,
@@ -452,7 +452,7 @@
       ]
     },
     {
-      "serieName": "R-SH_Det_ELC_HPN2-F",
+      "seriesName": "R-SH_Det_ELC_HPN2-F",
       "seriesValues": [
         [
           2025,
@@ -485,7 +485,7 @@
       ]
     },
     {
-      "serieName": "R-SH_Det_ELC_HPN2-G",
+      "seriesName": "R-SH_Det_ELC_HPN2-G",
       "seriesValues": [
         [
           2025,
@@ -518,7 +518,7 @@
       ]
     },
     {
-      "serieName": "R-SH_Det_ELC_N1",
+      "seriesName": "R-SH_Det_ELC_N1",
       "seriesValues": [
         [
           2032,
@@ -575,7 +575,7 @@
       ]
     },
     {
-      "serieName": "R-SW_Det_ELC_HPN1-ABD",
+      "seriesName": "R-SW_Det_ELC_HPN1-ABD",
       "seriesValues": [
         [
           2038,
@@ -584,7 +584,7 @@
       ]
     },
     {
-      "serieName": "R-SW_Det_ELC_HPN1-ABF",
+      "seriesName": "R-SW_Det_ELC_HPN1-ABF",
       "seriesValues": [
         [
           2038,
@@ -609,7 +609,7 @@
       ]
     },
     {
-      "serieName": "R-SW_Det_ELC_HPN1-ABG",
+      "seriesName": "R-SW_Det_ELC_HPN1-ABG",
       "seriesValues": [
         [
           2038,

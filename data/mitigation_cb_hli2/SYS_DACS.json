@@ -2,7 +2,7 @@
   "name": "mitigation_cb_hli2",
   "data": [
     {
-      "serieName": "INDCO2N",
+      "seriesName": "INDCO2N",
       "seriesValues": [
         [
           2025,
@@ -15,7 +15,7 @@
       ]
     },
     {
-      "serieName": "PWRCO2N",
+      "seriesName": "PWRCO2N",
       "seriesValues": [
         [
           2025,
@@ -24,7 +24,7 @@
       ]
     },
     {
-      "serieName": "INDCO2P",
+      "seriesName": "INDCO2P",
       "seriesValues": [
         [
           2029,

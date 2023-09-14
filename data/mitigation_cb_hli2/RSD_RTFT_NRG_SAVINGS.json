@@ -2,7 +2,7 @@
   "name": "mitigation_cb_hli2",
   "data": [
     {
-      "serieName": "RSDSH_Det-F",
+      "seriesName": "RSDSH_Det-F",
       "seriesValues": [
         [
           2019,
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "serieName": "RSDSH_Det-G",
+      "seriesName": "RSDSH_Det-G",
       "seriesValues": [
         [
           2019,
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "serieName": "RSDSH_Att-F",
+      "seriesName": "RSDSH_Att-F",
       "seriesValues": [
         [
           2023,
