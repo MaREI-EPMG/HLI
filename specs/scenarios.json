@@ -1,13 +1,5 @@
 [
   {
-    "name": "mitigation_cb_hli2",
-    "variants": [{ "name": "mitigation_cb_hli2", "specs": null }]
-  },
-  {
-    "name": "mitigation_cb_hli23",
-    "variants": [{ "name": "mitigation_cb_hli23", "specs": null }]
-  },
-  {
     "name": "mitigation_cb_hli25",
     "variants": [{ "name": "mitigation_cb_hli25", "specs": null }]
   },
