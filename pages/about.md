@@ -3,12 +3,11 @@
 To View Paper - https://www.overleaf.com/read/szkzggsrnjfz
 
 **Results Sep-2023**
-
 Scenario explanation:
-"HPR" = Heat Pump Ready 
-"HPR HLI2" = Dwelling with <= 2 W/K/m2 is considered HPR.
-"HPR B2 or better" = Only A1-B2 dwellings can get Heat Pumps
-"HPR B2 and Optimal HPs" = Is the same as HP B2 or better except no suboptimal Heat Pumps are aloowed this is the core scenario used in previous studies. 
+"B2" = Reference Scenario. No Sub-optimal Heat Pumps and B2 EPC required for Optimal Heat Pump. 
+"B2OS" = Same as Reference Scenario, but sun-optimal Heat Pumps permitted. 
+"HLI2.5" - Heat Loss Indication (HLI) of 2.5 of less required for optimal HP, suboptimal HP permitted. 
+"HLI3" - Heat Loss Indication (HLI) of 3 of less required for optimal HP, suboptimal HP permitted. 
 
 For any queries, Contact Jason Mc Guire - at jason.mcguire@ucc.ie
 
