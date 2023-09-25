@@ -1,27 +1,7 @@
 [
-  {
-    "name": "mitigation_cb_hli25",
-    "variants": [{ "name": "mitigation_cb_hli25", "specs": null }]
-  },
-  {
-    "name": "mitigation_cb_hli3",
-    "variants": [{ "name": "mitigation_cb_hli3", "specs": null }]
-  },
-{
-    "name": "mitigation_cb_hlib2",
-    "variants": [{ "name": "mitigation_cb_hlib2", "specs": null }]
-  },
-{
-    "name": "mitigation_cb_hlib2-ns",
-    "variants": [{ "name": "mitigation_cb_hlib2-ns", "specs": null }]
-  },
 {
     "name": "mitigation_hli23-b",
     "variants": [{ "name": "mitigation_hli23-b", "specs": null }]
-  },
-{
-    "name": "mitigation_hli25-b",
-    "variants": [{ "name": "mitigation_hli25-b", "specs": null }]
   },
 {
     "name": "mitigation_hli3-b",
