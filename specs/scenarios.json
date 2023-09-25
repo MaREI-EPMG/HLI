@@ -14,5 +14,25 @@
 {
     "name": "mitigation_cb_hlib2-ns",
     "variants": [{ "name": "mitigation_cb_hlib2-ns", "specs": null }]
+  },
+{
+    "name": "mitigation_hli23-b",
+    "variants": [{ "name": "mitigation_hli23-b", "specs": null }]
+  },
+{
+    "name": "mitigation_hli25-b",
+    "variants": [{ "name": "mitigation_hli25-b", "specs": null }]
+  },
+{
+    "name": "mitigation_hli3-b",
+    "variants": [{ "name": "mitigation_hli3-b", "specs": null }]
+  },
+{
+    "name": "mitigation_b2so-b",
+    "variants": [{ "name": "mitigation_b2so-b", "specs": null }]
+  },
+{
+    "name": "mitigation_b2-a",
+    "variants": [{ "name": "mitigation_b2-a", "specs": null }]
   }
 ]
