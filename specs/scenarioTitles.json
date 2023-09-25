@@ -1,10 +1,5 @@
 {
-  "mitigation_cb_hli25": "HLI2.5",
-  "mitigation_cb_hli3": "HLI3",
-  "mitigation_cb_hlib2": "B2SO",
-  "mitigation_cb_hlib2-ns": "B2(Previous)",
   "mitigation_hli23-b": "New-HLI2.3",
-  "mitigation_hli25-b": "New-HLI2.5",
   "mitigation_hli3-b": "New-HLI3",
   "mitigation_b2so-b": "New-B2SO",
   "mitigation_b2-a": "New-B2"
